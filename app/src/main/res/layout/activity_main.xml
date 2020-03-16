@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="137dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/logo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btAthelstan"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:background="#D10A0A0A"
+            android:text="Athelstan" />
+
+        <Button
+            android:id="@+id/btBjorn"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:background="#D10A0A0A"
+            android:text="Bjorn" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btFloki"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:background="#D10A0A0A"
+            android:text="Floki" />
+
+        <Button
+            android:id="@+id/btLagertha"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:background="#D10A0A0A"
+            android:text="Largertha" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btRagnar"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:background="#D10A0A0A"
+            android:text="Ragnar" />
+
+        <Button
+            android:id="@+id/btRollo"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:background="#D10A0A0A"
+            android:text="Rollo" />
+    </LinearLayout>
+
+</LinearLayout>
