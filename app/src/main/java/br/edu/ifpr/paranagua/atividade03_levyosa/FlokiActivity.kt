@@ -3,6 +3,7 @@ package br.edu.ifpr.paranagua.atividade03_levyosa
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_floki.*
 
@@ -14,6 +15,7 @@ class FlokiActivity : AppCompatActivity() {
         setSourceLabels()
         bundleName()
         setOnClickListeners()
+
 
     }
 
@@ -29,7 +31,10 @@ class FlokiActivity : AppCompatActivity() {
     }
 
     fun setSourceLabels(){
+
         tvSourceActivity.setText(intent.extras?.getString("activity"))
+
         tvThisActivity.setText(this.localClassName)
+
     }
 }
