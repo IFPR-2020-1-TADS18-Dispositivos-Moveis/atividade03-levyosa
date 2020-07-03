@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
-        android:text="Athelstan"
+        android:text="@string/athelstan"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -34,7 +34,7 @@
         android:id="@+id/tvDescricao"
         android:layout_width="269dp"
         android:layout_height="77dp"
-        android:text="Athelstan was a young Anglo-Saxon, once a Christian monk taken as a slave by Ragnar Lothbrok and his fellow Vikings from Lindisfarne monastery. "
+        android:text="@string/athelstan_description"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -44,7 +44,7 @@
         android:id="@+id/tvMigos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Amigos Favoritos"
+        android:text="@string/best_friends"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -88,7 +88,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="anterior" />
+            android:text="anteror" />
 
         <TextView
             android:id="@+id/textView3"
@@ -104,6 +104,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="    atual" />
+            android:text="atual" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bjorn_description">Björn Ironside es el Rey de Kattegat, el hijo mayor de Ragnar Lothbrok y Lagertha. Más tarde, se revela que su tío Rollo podría ser su padre biológico.</string>
+    <string name="floki_description">Floki es un constructor de barcos y un tramposo incorregible, que también resulta ser el excéntrico y amigo más cercano de Ragnar Lothbrok.</string>
+    <string name="lagertha_description">Lagertha fue una legendaria doncella del escudo, la primera y ex esposa de Ragnar Lothbrok y la segunda Reina de Kattegat.</string>
+    <string name="ragnar_description">Ragnar Sigurdsson, conocido popularmente como Ragnar Lothbrok, fue el principal protagonista de los vikingos hasta su muerte en la Parte 2 de la Temporada 4.</string>
+    <string name="rollo_description">Rollo de Normandía, también conocido como Rollo Sigurdsson y Rolf, es el hermano mayor de Ragnar Lothbrok y el duque de Normandía.</string>
+    <string name="best_friends">Mejores amigos</string>
+    <string name="best_friend">Mejor amigo</string>
+    <string name="athelstan_description">Athelstan era un joven anglosajón, una vez un monje cristiano tomado como esclavo por Ragnar Lothbrok y sus compañeros vikingos del monasterio de Lindisfarne.</string>
+</resources>

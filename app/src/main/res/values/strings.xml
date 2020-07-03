@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">atividade03-levyosa</string>
+    <string name="app_name" translatable="false">atividade03-levyosa</string>
+    <string name="athelstan_description">Athelstan was a young Anglo-Saxon, once a Christian monk taken as a slave by Ragnar Lothbrok and his fellow Vikings from Lindisfarne monastery.</string>
+    <string name="best_friends">Best Friends</string>
+    <string name="best_friend">Best Friend</string>
+    <string name="bjorn_description">Björn Ironside is the King of Kattegat the eldest son of Ragnar Lothbrok and Lagertha. Later, it is revealed his uncle Rollo might be his biological father.</string>
+    <string name="floki_description">Floki is a boat builder and incorrigible trickster, who also happens to be Ragnar Lothbrok\'s eccentric and closest friend.</string>
+    <string name="lagertha_description">Lagertha was a legendary shield maiden, the first and ex-wife of Ragnar Lothbrok and the second Queen of Kattegat.</string>
+    <string name="ragnar_description">Ragnar Sigurdsson, popularly known as Ragnar Lothbrok, was the main protagonist of Vikings until his death in Part 2 of Season 4.</string>
+    <string name="rollo_description">Rollo of Normandy, also known as Rollo Sigurdsson and Rolf, is Ragnar Lothbrok\'s older brother and the Duke of Normandy.</string>
+    <string name="athelstan" translatable="false">Athelstan</string>
+    <string name="bjorn" translatable="false">Bjorn</string>
+    <string name="floki" translatable="false">Floki</string>
+    <string name="lagertha" translatable="false">Lagertha</string>
+    <string name="ragnar" translatable="false">Ragnar</string>
+    <string name="rollo" translatable="false">Rollo</string>
+
+
+
 </resources>
